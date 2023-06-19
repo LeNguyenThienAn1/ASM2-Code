@@ -1,0 +1,8 @@
+D:\Qlsv1\QLSV3\bin\Debug\QLSV3.exe.config
+D:\Qlsv1\QLSV3\bin\Debug\QLSV3.exe
+D:\Qlsv1\QLSV3\bin\Debug\QLSV3.pdb
+D:\Qlsv1\QLSV3\obj\Debug\QLSV3.csproj.AssemblyReference.cache
+D:\Qlsv1\QLSV3\obj\Debug\QLSV3.csproj.SuggestedBindingRedirects.cache
+D:\Qlsv1\QLSV3\obj\Debug\QLSV3.csproj.CoreCompileInputs.cache
+D:\Qlsv1\QLSV3\obj\Debug\QLSV3.exe
+D:\Qlsv1\QLSV3\obj\Debug\QLSV3.pdb
