@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace QLSV3
 {
-    public class Student
+    public abstract class Student
     {
         private string name;
         private int age;
@@ -36,12 +36,7 @@ namespace QLSV3
             get { return gender; }
             set { gender = value; }
         }
-        public virtual void PrintInfo()
-        {
-            Console.WriteLine("Name Of Student: " + Name);
-            Console.WriteLine("Age Student: " + Age);
-            Console.WriteLine("ID Student: " + ID);
-            Console.WriteLine("Gender Student: " + Gender);
-        }
+
+        public abstract void PrintInfo();
     }
 }
